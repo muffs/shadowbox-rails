@@ -1,3 +1,4 @@
+window.I_JUST_UPDATED = 'foo';
 /*
  * Shadowbox.js, version 3.0.3
  * http://shadowbox-js.com/
